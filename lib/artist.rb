@@ -27,7 +27,7 @@ class Artist
     self.songs.map do |song|
       song.genre
     end
-    binding.pry
+    # binding.pry
   end 
 
 
